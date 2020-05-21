@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.2" id="node1" apprev="17873">
+  <input levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1750" width="1750" overlap="1" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltilesize="510">
+    <level height="1750" preload="0" width="1750" predecode="0"/>
+    <level height="875" preload="0" width="875" predecode="0"/>
+    <level height="437" preload="1" width="437" predecode="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start fov="70" projection="4" pan="-0.39" tilt="-2.47"/>
+    <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+    <min pan="0" fovpixel="2" tilt="-90"/>
+    <max fov="120" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="270"/>
+  </view>
+  <userdata tags="Итог Панорама" source="" info="" copyright="" latitude="" customnodeid="" description="" comment="" nodeid="node1" author="" longitude="" title="" datetime="21.05.2020 8:46"/>
+  <hotspots height="20" width="180" wordwrap="1">
+    <label background="1" backgroundalpha="1" borderradius="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" width="180" enabled="1" wordwrap="1" textcolor="0x000000" textalpha="1" borderalpha="1" border="1"/>
+    <polystyle handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+  </hotspots>
+  <media/>
+  <transition zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomfov="20" blendtime="1" zoomspeed="2" zoomoutpause="1" enabled="1" softedge="0" zoomout="0"/>
+  <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+  <control lockedkeyboard="0" speedwheel="1" sensitivity="8" hideabout="0" invertcontrol="1" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" invertwheel="0" rubberband="0" lockedmouse="0" simulatemass="1"/>
+</panorama>
