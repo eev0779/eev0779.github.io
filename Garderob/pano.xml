@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="17950" id="node1" appversion="6.1.6">
+  <input leveltilesize="510" width="2500" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" height="2500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+    <level predecode="0" preload="0" width="2500" height="2500"/>
+    <level predecode="0" preload="0" width="1250" height="1250"/>
+    <level predecode="0" preload="0" width="625" height="625"/>
+    <level predecode="1" preload="1" width="312" height="312"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start tilt="0" pan="0" projection="4" fov="70"/>
+    <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+    <min tilt="-90" pan="0" fovpixel="2"/>
+    <max tilt="90" fovfisheye="360" pan="360" scaletofit="1" fov="120" fovstereographic="270"/>
+  </view>
+  <userdata title="" tags="Итог" comment="" info="" description="" source="" nodeid="node1" datetime="02.07.2020 5:04" latitude="" longitude="" author="" copyright="" customnodeid="" heading="0"/>
+  <hotspots width="180" wordwrap="1" height="20">
+    <label textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" borderradius="1" wordwrap="1" enabled="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" height="20" textalpha="1"/>
+    <polystyle borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+  </hotspots>
+  <media/>
+  <transition type="crossdissolve" zoomspeed="2" softedge="0" blendtime="1" enabled="1" zoomout="0" zoomoutpause="1" zoomin="0" zoomfov="20" blendcolor="0x000000"/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control simulatemass="1" sensitivity="8" contextfullscreen="1" hideabout="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" rubberband="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1"/>
+</panorama>
