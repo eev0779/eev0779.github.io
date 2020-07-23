@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="17950" id="node1" appversion="6.1.6">
+  <input leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" width="2500" height="2500" levelbiashidpi="1.000">
+    <level predecode="0" preload="0" width="2500" height="2500"/>
+    <level predecode="0" preload="0" width="1250" height="1250"/>
+    <level predecode="0" preload="0" width="625" height="625"/>
+    <level predecode="1" preload="1" width="312" height="312"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start fov="70" projection="4" pan="0" tilt="0"/>
+    <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+    <min fovpixel="2" pan="0" tilt="-90"/>
+    <max fovfisheye="360" scaletofit="1" fov="120" fovstereographic="270" pan="360" tilt="90"/>
+  </view>
+  <userdata author="" nodeid="node1" customnodeid="" comment="" datetime="23.07.2020 13:07" source="" heading="0" info="" description="" longitude="" latitude="" copyright="" title="" tags="Итог"/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label enabled="1" backgroundalpha="1" background="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" textalpha="1" width="180" height="20" borderalpha="1" textcolor="0x000000" border="1"/>
+    <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
+  </hotspots>
+  <media/>
+  <transition enabled="1" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" blendcolor="0x000000"/>
+  <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+  <control invertcontrol="1" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0" contextfullscreen="1" contextprojections="0" hideabout="0" rubberband="0" lockedmouse="0" lockedkeyboard="0"/>
+</panorama>
