@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.6" id="node1" apprev="17950">
+  <input leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" width="2500" levelingroll="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2500">
+    <level width="2500" predecode="0" height="2500" preload="0"/>
+    <level width="1250" predecode="0" height="1250" preload="0"/>
+    <level width="625" predecode="0" height="625" preload="0"/>
+    <level width="312" predecode="1" height="312" preload="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start fov="70" tilt="0" pan="0" projection="4"/>
+    <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+    <min fovpixel="2" tilt="-90" pan="0"/>
+    <max scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360" tilt="90" pan="360"/>
+  </view>
+  <userdata copyright="" nodeid="node1" heading="0" author="" source="" description="" customnodeid="" title="" comment="" tags="Итог" longitude="" info="" datetime="23.07.2020 13:07" latitude=""/>
+  <hotspots width="180" height="20" wordwrap="1">
+    <label textcolor="0x000000" textalpha="1" width="180" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" borderalpha="1" background="1" height="20" borderradius="1" wordwrap="1" backgroundalpha="1"/>
+    <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+  </hotspots>
+  <media/>
+  <transition type="crossdissolve" softedge="0" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomoutpause="1" zoomout="0" enabled="1" blendtime="1" zoomin="0"/>
+  <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+  <control dblclickfullscreen="0" hideabout="0" invertcontrol="1" contextprojections="0" speedwheel="1" invertwheel="0" contextfullscreen="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1" lockedkeyboard="0" sensitivity="8" rubberband="0"/>
+</panorama>
