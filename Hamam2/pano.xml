@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" apprev="17950" appversion="6.1.6">
+  <input overlap="1" height="2500" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="2500">
+    <level predecode="0" preload="0" height="2500" width="2500"/>
+    <level predecode="0" preload="0" height="1250" width="1250"/>
+    <level predecode="0" preload="0" height="625" width="625"/>
+    <level predecode="1" preload="1" height="312" width="312"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start projection="4" pan="0" tilt="0" fov="70"/>
+    <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max fovstereographic="270" fovfisheye="360" pan="360" tilt="90" fov="120" scaletofit="1"/>
+  </view>
+  <userdata heading="0" nodeid="node1" latitude="" datetime="27.07.2020 15:43" customnodeid="" title="" description="" tags="Итог" source="" longitude="" comment="" author="" copyright="" info=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label borderradius="1" enabled="1" textcolor="0x000000" height="20" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" bordercolor="0x000000" backgroundalpha="1" border="1" background="1" borderalpha="1"/>
+    <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+  </hotspots>
+  <media/>
+  <transition blendtime="1" softedge="0" zoomfov="20" enabled="1" blendcolor="0x000000" zoomin="0" zoomout="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+  <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+  <control hideabout="0" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" rubberband="0" lockedmouse="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" contextfullscreen="1"/>
+</panorama>
