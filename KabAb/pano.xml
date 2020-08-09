@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="17950" id="node1" appversion="6.1.6">
+  <input overlap="1" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2500" levelbiashidpi="1.000" width="2500" levelingroll="0" levelingpitch="0" levelbias="0.400">
+    <level height="2500" width="2500" preload="0" predecode="0"/>
+    <level height="1250" width="1250" preload="0" predecode="0"/>
+    <level height="625" width="625" preload="0" predecode="0"/>
+    <level height="312" width="312" preload="1" predecode="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start projection="4" pan="0" fov="70" tilt="0"/>
+    <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+    <min fovpixel="2" pan="0" tilt="-90"/>
+    <max scaletofit="1" fovstereographic="270" pan="360" fov="120" tilt="90" fovfisheye="360"/>
+  </view>
+  <userdata heading="0" info="" author="" description="" tags="Итог" longitude="" title="" latitude="" customnodeid="" datetime="09.08.2020 6:26" source="" copyright="" comment="" nodeid="node1"/>
+  <hotspots height="20" width="180" wordwrap="1">
+    <label enabled="1" height="20" width="180" textcolor="0x000000" backgroundalpha="1" background="1" borderalpha="1" border="1" wordwrap="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
+    <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+  </hotspots>
+  <media/>
+  <transition enabled="1" softedge="0" zoomspeed="2" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+  <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+  <control sensitivity="8" invertwheel="0" simulatemass="1" speedwheel="1" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" lockedwheel="0"/>
+</panorama>
