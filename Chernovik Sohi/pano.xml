@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.6" apprev="17950" start="node3">
+  <panorama id="node3">
+    <input levelbias="0.400" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="1750" levelingpitch="0" height="1750" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level width="1750" height="1750" preload="0" predecode="0"/>
+      <level width="875" height="875" preload="0" predecode="0"/>
+      <level width="437" height="437" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata tags="Черновик стены" latitude="" info="" title="" copyright="" nodeid="node3" source="" heading="0" description="" longitude="" datetime="" customnodeid="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" width="180" background="1" borderalpha="1" borderradius="1" height="20" textalpha="1" border="1" wordwrap="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-355.39" id="Point01" url="{node2}" target="" title="" skinid="ht_node" tilt="-9.01" description=""/>
+      <hotspot pan="-102.44" id="Point02" url="{node4}" target="" title="" skinid="ht_node" tilt="-10.76" description=""/>
+      <hotspot pan="-251.29" id="Point03" url="{node6}" target="" title="" skinid="ht_node" tilt="-8.54" description=""/>
+      <hotspot pan="-172.03" id="Point04" url="{node5}" target="" title="" skinid="ht_node" tilt="-3.91" description=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" zoomoutpause="1" enabled="1" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" invertcontrol="1" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbias="0.400" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="1750" levelingpitch="0" height="1750" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level width="1750" height="1750" preload="0" predecode="0"/>
+      <level width="875" height="875" preload="0" predecode="0"/>
+      <level width="437" height="437" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata tags="Черновик стены" latitude="" info="" title="" copyright="" nodeid="node1" source="" heading="0" description="" longitude="" datetime="" customnodeid="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" width="180" background="1" borderalpha="1" borderradius="1" height="20" textalpha="1" border="1" wordwrap="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-163.74" id="Point01" url="{node6}" target="" title="" skinid="ht_node" tilt="-21.54" description=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" zoomoutpause="1" enabled="1" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" invertcontrol="1" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="1750" levelingpitch="0" height="1750" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level width="1750" height="1750" preload="0" predecode="0"/>
+      <level width="875" height="875" preload="0" predecode="0"/>
+      <level width="437" height="437" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata tags="Черновик стены" latitude="" info="" title="" copyright="" nodeid="node2" source="" heading="0" description="" longitude="" datetime="" customnodeid="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" width="180" background="1" borderalpha="1" borderradius="1" height="20" textalpha="1" border="1" wordwrap="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-214.74" id="Point01" url="{node3}" target="" title="" skinid="ht_node" tilt="-10.02" description=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" zoomoutpause="1" enabled="1" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" invertcontrol="1" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="1750" levelingpitch="0" height="1750" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level width="1750" height="1750" preload="0" predecode="0"/>
+      <level width="875" height="875" preload="0" predecode="0"/>
+      <level width="437" height="437" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata tags="Черновик стены" latitude="" info="" title="" copyright="" nodeid="node4" source="" heading="0" description="" longitude="" datetime="" customnodeid="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" width="180" background="1" borderalpha="1" borderradius="1" height="20" textalpha="1" border="1" wordwrap="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-152.99" id="Point01" url="{node3}" target="" title="" skinid="ht_node" tilt="-17.87" description=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" zoomoutpause="1" enabled="1" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" invertcontrol="1" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="1750" levelingpitch="0" height="1750" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level width="1750" height="1750" preload="0" predecode="0"/>
+      <level width="875" height="875" preload="0" predecode="0"/>
+      <level width="437" height="437" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata tags="Черновик стены" latitude="" info="" title="" copyright="" nodeid="node5" source="" heading="0" description="" longitude="" datetime="" customnodeid="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" width="180" background="1" borderalpha="1" borderradius="1" height="20" textalpha="1" border="1" wordwrap="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-285.12" id="Point01" url="{node3}" target="" title="" skinid="ht_node" tilt="-14.62" description=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" zoomoutpause="1" enabled="1" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" invertcontrol="1" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbias="0.400" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="1750" levelingpitch="0" height="1750" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level width="1750" height="1750" preload="0" predecode="0"/>
+      <level width="875" height="875" preload="0" predecode="0"/>
+      <level width="437" height="437" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata tags="Черновик стены" latitude="" info="" title="" copyright="" nodeid="node6" source="" heading="0" description="" longitude="" datetime="" customnodeid="" author="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" width="180" background="1" borderalpha="1" borderradius="1" height="20" textalpha="1" border="1" wordwrap="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-143.37" id="Point01" url="{node3}" target="" title="" skinid="ht_node" tilt="-7.24" description=""/>
+      <hotspot pan="-151.43" id="Point02" url="{node1}" target="" title="" skinid="ht_node" tilt="-6.94" description=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" zoomoutpause="1" enabled="1" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" invertcontrol="1" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" latitude="" info="" title="" copyright="" nodeid="master" source="" heading="0" description="" longitude="" datetime="" customnodeid="" author="" comment=""/>
+  </masternode>
+</tour>
