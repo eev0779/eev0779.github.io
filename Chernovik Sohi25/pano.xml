@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" apprev="17950" appversion="6.1.6">
+  <input leveltilesize="510" levelbias="0.400" overlap="1" width="1750" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1750">
+    <level predecode="0" width="1750" preload="0" height="1750"/>
+    <level predecode="0" width="875" preload="0" height="875"/>
+    <level predecode="1" width="437" preload="1" height="437"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start tilt="0" fov="70" pan="0" projection="4"/>
+    <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+    <min fovpixel="2" tilt="-90" pan="0"/>
+    <max fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90" fov="120" pan="360"/>
+  </view>
+  <userdata customnodeid="" datetime="" title="" tags="Черновик стены" copyright="" longitude="" author="" info="" source="" comment="" description="" latitude="" heading="0" nodeid="node1"/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label wordwrap="1" backgroundalpha="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" width="180" borderradius="1" bordercolor="0x000000" border="1" enabled="1" height="20" background="1"/>
+    <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+  </hotspots>
+  <media/>
+  <transition zoomspeed="2" type="crossdissolve" softedge="0" zoomfov="20" zoomout="0" zoomoutpause="1" enabled="1" blendtime="1" blendcolor="0x000000" zoomin="0"/>
+  <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+  <control lockedkeyboard="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" invertwheel="0" hideabout="0"/>
+</panorama>
