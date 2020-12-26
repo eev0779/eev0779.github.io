@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" appversion="6.1.6" apprev="17950">
+  <input leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="2500" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="2500" levelbias="0.400">
+    <level preload="0" height="2500" predecode="0" width="2500"/>
+    <level preload="0" height="1250" predecode="0" width="1250"/>
+    <level preload="0" height="625" predecode="0" width="625"/>
+    <level preload="1" height="312" predecode="1" width="312"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start pan="0" tilt="0" projection="4" fov="70"/>
+    <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <min pan="0" fovpixel="2" tilt="-90"/>
+    <max pan="360" scaletofit="1" tilt="90" fovfisheye="360" fov="120" fovstereographic="270"/>
+  </view>
+  <userdata author="" datetime="26.12.2020 8:14" comment="" heading="0" customnodeid="" description="" copyright="" info="" title="" tags="Итог2" source="" nodeid="node1" longitude="" latitude=""/>
+  <hotspots wordwrap="1" height="20" width="180">
+    <label background="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" textalpha="1" border="1" enabled="1" height="20" borderalpha="1" borderradius="1" width="180"/>
+    <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+  </hotspots>
+  <media/>
+  <transition zoomfov="20" zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0" enabled="1" blendtime="1" zoomspeed="2" type="crossdissolve"/>
+  <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+  <control dblclickfullscreen="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" hideabout="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" rubberband="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" simulatemass="1"/>
+</panorama>
