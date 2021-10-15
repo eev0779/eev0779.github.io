@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="17950" id="node1" appversion="6.1.6">
+  <input levelbiashidpi="1.000" width="2500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0" overlap="1" height="2500">
+    <level width="2500" predecode="0" height="2500" preload="0"/>
+    <level width="1250" predecode="0" height="1250" preload="0"/>
+    <level width="625" predecode="0" height="625" preload="0"/>
+    <level width="312" predecode="1" height="312" preload="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start projection="4" pan="0" tilt="0" fov="70"/>
+    <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120" fovfisheye="360"/>
+  </view>
+  <userdata datetime="" latitude="" longitude="" nodeid="node1" comment="" description="" heading="0" source="" info="" copyright="" author="" title="" customnodeid="" tags="ЧЕРНОВИК"/>
+  <hotspots width="180" wordwrap="1" height="20">
+    <label width="180" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1" enabled="1" borderradius="1" height="20" border="1"/>
+    <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+  </hotspots>
+  <media/>
+  <transition zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" enabled="1" softedge="0" zoomoutpause="1" type="crossdissolve"/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control invertcontrol="1" sensitivity="8" invertwheel="0" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" contextprojections="0" lockedkeyboard="0" dblclickfullscreen="0" lockedmouse="0"/>
+</panorama>
