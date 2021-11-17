@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.6" apprev="17950" id="node1">
+  <input leveltilesize="510" levelbiashidpi="1.000" width="1750" levelingroll="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1750" levelingpitch="0" levelbias="0.400">
+    <level preload="0" width="1750" height="1750" predecode="0"/>
+    <level preload="0" width="875" height="875" predecode="0"/>
+    <level preload="1" width="437" height="437" predecode="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start pan="0" fov="70" projection="4" tilt="0"/>
+    <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+    <min pan="0" fovpixel="2" tilt="-90"/>
+    <max pan="360" fov="120" scaletofit="1" fovfisheye="360" fovstereographic="270" tilt="90"/>
+  </view>
+  <userdata datetime="" comment="" nodeid="node1" longitude="" description="" customnodeid="" title="" author="" source="" info="" tags="ЧЕРНОВИК3" latitude="" copyright="" heading="0"/>
+  <hotspots width="180" wordwrap="1" height="20">
+    <label borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" width="180" background="1" borderalpha="1" wordwrap="1" backgroundalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1"/>
+    <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+  </hotspots>
+  <media/>
+  <transition zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0" zoomspeed="2" type="crossdissolve" blendcolor="0x000000" softedge="0" enabled="1"/>
+  <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+  <control invertwheel="0" hideabout="0" sensitivity="8" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1"/>
+</panorama>
