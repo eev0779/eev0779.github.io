@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" appversion="6.1.6" apprev="17950">
+  <input levelingpitch="0" overlap="1" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1750" leveltilesize="510" width="1750" levelingroll="0">
+    <level preload="0" height="1750" width="1750" predecode="0"/>
+    <level preload="0" height="875" width="875" predecode="0"/>
+    <level preload="1" height="437" width="437" predecode="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start tilt="0" pan="0" fov="70" projection="4"/>
+    <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+    <min fovpixel="2" tilt="-90" pan="0"/>
+    <max fovfisheye="360" tilt="90" pan="360" fov="120" scaletofit="1" fovstereographic="270"/>
+  </view>
+  <userdata nodeid="node1" info="" comment="" heading="0" longitude="" customnodeid="" author="" description="" latitude="" datetime="19.11.2021 12:04" tags="Новая папка" source="" copyright="" title=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label textalpha="1" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderradius="1" background="1" height="20" wordwrap="1" enabled="1" width="180" border="1" bordercolor="0x000000"/>
+    <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+  </hotspots>
+  <media/>
+  <transition blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomfov="20" zoomin="0" zoomspeed="2" zoomoutpause="1" enabled="1" softedge="0" blendtime="1"/>
+  <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+  <control sensitivity="8" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" invertcontrol="1"/>
+</panorama>
