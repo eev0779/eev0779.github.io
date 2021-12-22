@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="17950" appversion="6.1.6">
+  <panorama id="node1">
+    <input width="2500" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2500" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level width="2500" preload="0" height="2500" predecode="0"/>
+      <level width="1250" preload="0" height="1250" predecode="0"/>
+      <level width="625" preload="0" height="625" predecode="0"/>
+      <level width="312" preload="1" height="312" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="120" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata author="" comment="" longitude="" customnodeid="" source="" copyright="" title="" datetime="22.12.2021 8:45" tags="ИТОГ коридор" description="" latitude="" nodeid="node1" info="" heading="0"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" backgroundalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" height="20" borderradius="1" enabled="1" textalpha="1" background="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="1" zoomfov="20" zoomin="0" type="crossdissolve" softedge="0" blendtime="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedwheel="0" contextfullscreen="1" invertcontrol="1" rubberband="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" contextprojections="0" hideabout="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="2500" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2500" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level width="2500" preload="0" height="2500" predecode="0"/>
+      <level width="1250" preload="0" height="1250" predecode="0"/>
+      <level width="625" preload="0" height="625" predecode="0"/>
+      <level width="312" preload="1" height="312" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="120" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata author="" comment="" longitude="" customnodeid="" source="" copyright="" title="" datetime="22.12.2021 8:45" tags="Pano2VR6" description="" latitude="" nodeid="node2" info="" heading="0"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" backgroundalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" height="20" borderradius="1" enabled="1" textalpha="1" background="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="1" zoomfov="20" zoomin="0" type="crossdissolve" softedge="0" blendtime="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedwheel="0" contextfullscreen="1" invertcontrol="1" rubberband="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" invertwheel="0" contextprojections="0" hideabout="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" longitude="" customnodeid="" source="" copyright="" title="" datetime="" tags="" description="" latitude="" nodeid="master" info="" heading="0"/>
+  </masternode>
+</tour>
