@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" apprev="17950" appversion="6.1.6">
+  <input overlap="1" height="1750" levelingpitch="0" levelingroll="0" width="1750" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+    <level height="1750" preload="0" predecode="0" width="1750"/>
+    <level height="875" preload="0" predecode="0" width="875"/>
+    <level height="437" preload="1" predecode="1" width="437"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start fov="70" projection="4" pan="0" tilt="0"/>
+    <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1" tilt="90"/>
+  </view>
+  <userdata description="" author="" datetime="10.02.2022 10:16" info="" tags="Новая папка (9)" nodeid="node1" customnodeid="" copyright="" heading="0" title="" source="" comment="" longitude="" latitude=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label height="20" border="1" borderradius="1" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" enabled="1" backgroundalpha="1" width="180" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+    <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+  </hotspots>
+  <media/>
+  <transition softedge="0" zoomspeed="2" zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendtime="1" blendcolor="0x000000" zoomout="0"/>
+  <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+  <control dblclickfullscreen="0" sensitivity="8" invertwheel="0" speedwheel="1" contextfullscreen="1" simulatemass="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0"/>
+</panorama>
