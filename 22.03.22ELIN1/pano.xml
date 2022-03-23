@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" appversion="6.1.6" apprev="17950">
+  <input levelingroll="0" overlap="1" levelbiashidpi="1.000" levelingpitch="0" width="2000" height="2000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400">
+    <level preload="0" width="2000" predecode="0" height="2000"/>
+    <level preload="0" width="1000" predecode="0" height="1000"/>
+    <level preload="1" width="500" predecode="1" height="500"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start fov="70" projection="4" pan="0" tilt="0"/>
+    <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="270"/>
+  </view>
+  <userdata info="" datetime="23.03.2022 16:36" comment="" copyright="" customnodeid="" description="" tags="ЧЕРНовик" nodeid="node1" title="" author="" source="" latitude="" heading="0" longitude=""/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label textalpha="1" textcolor="0x000000" borderradius="1" wordwrap="1" enabled="1" backgroundalpha="1" width="180" background="1" bordercolor="0x000000" height="20" backgroundcolor="0xffffff" border="1" borderalpha="1"/>
+    <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+  </hotspots>
+  <media/>
+  <transition blendtime="1" zoomfov="20" zoomspeed="2" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve" zoomin="0"/>
+  <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+  <control sensitivity="8" speedwheel="1" contextfullscreen="1" hideabout="0" contextprojections="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0"/>
+</panorama>
