@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.6" apprev="17950" id="node1">
+  <input overlap="1" height="2250" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" width="2250" levelingpitch="0" levelbiashidpi="1.000">
+    <level predecode="0" height="2250" preload="0" width="2250"/>
+    <level predecode="0" height="1125" preload="0" width="1125"/>
+    <level predecode="0" height="562" preload="0" width="562"/>
+    <level predecode="1" height="281" preload="1" width="281"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start projection="4" pan="0" tilt="0" fov="70"/>
+    <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270"/>
+  </view>
+  <userdata source="" comment="" longitude="" author="" description="" info="" title="" latitude="" nodeid="node1" tags="ИТОГ" copyright="" customnodeid="" heading="0" datetime="20.04.2022 23:42"/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label borderalpha="1" background="1" enabled="1" height="20" bordercolor="0x000000" textalpha="1" wordwrap="1" borderradius="1" border="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1"/>
+    <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+  </hotspots>
+  <media/>
+  <transition zoomfov="20" enabled="1" blendtime="1" zoomin="0" zoomspeed="2" zoomout="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" softedge="0"/>
+  <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+  <control invertwheel="0" contextprojections="0" rubberband="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" simulatemass="1" sensitivity="8" contextfullscreen="1"/>
+</panorama>
