@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.6" apprev="17950" start="node2">
+  <panorama id="node2">
+    <input levelbias="0.400" width="2000" height="2000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" overlap="1" levelingpitch="0">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" pan="360" fov="120"/>
+    </view>
+    <userdata tags="Pano2VR6" datetime="11.05.2022 19:11" longitude="" title="" copyright="" comment="" source="" latitude="" author="" nodeid="node2" info="" customnodeid="" description="" heading="0"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" borderalpha="1" border="1" borderradius="1" background="1" textalpha="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" softedge="0" zoomout="0" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" invertcontrol="1" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboard="0" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" datetime="" longitude="" title="" copyright="" comment="" source="" latitude="" author="" nodeid="master" info="" customnodeid="" description="" heading="0"/>
+  </masternode>
+</tour>
