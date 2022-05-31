@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" appversion="6.1.6" apprev="17950">
+  <input leveltilesize="510" levelingpitch="0" overlap="1" height="1750" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" width="1750">
+    <level height="1750" predecode="0" preload="0" width="1750"/>
+    <level height="875" predecode="0" preload="0" width="875"/>
+    <level height="437" predecode="1" preload="1" width="437"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start fov="70" projection="4" pan="0" tilt="0"/>
+    <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+    <min fovpixel="2" pan="0" tilt="-90"/>
+    <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+  </view>
+  <userdata info="" heading="0" description="" datetime="" customnodeid="" source="" title="" tags="Новая папка (7)" copyright="" comment="" author="" latitude="" nodeid="node1" longitude=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label textcolor="0x000000" enabled="1" height="20" borderradius="1" backgroundcolor="0xffffff" background="1" borderalpha="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" border="1" wordwrap="1" width="180"/>
+    <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+  </hotspots>
+  <media/>
+  <transition softedge="0" zoomfov="20" enabled="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" blendtime="1" zoomspeed="2"/>
+  <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+  <control invertwheel="0" sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" lockedmouse="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0"/>
+</panorama>
