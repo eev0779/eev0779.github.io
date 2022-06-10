@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17950" appversion="6.1.6" start="node5">
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" width="2000" height="2000" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" heading="0" source="" nodeid="node5" description="" author="" copyright="" title="" customnodeid="" datetime="09.06.2022 10:00" info="" comment="" tags="ИТОГ" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" border="1" borderalpha="1" backgroundalpha="1" background="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node3}" target="" id="Point01" description="" tilt="-10.5" title="" pan="-359.03" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" field="90.000" id="_background" mode="0" loop="1" startmutedmobile="0" tilt="-1.000" pansize="10.000" pan="-1.000" ambientlevel="0.000" level="1.000">
+        <source url="media/deti-online.com_-_antoshka.mp3"/>
+        <source url="media/detskie-dva-veselykh-gusja.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" invertcontrol="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" width="2000" height="2000" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" heading="0" source="" nodeid="node3" description="" author="" copyright="" title="" customnodeid="" datetime="10.06.2022 5:41" info="" comment="" tags="ИТОГ" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" border="1" borderalpha="1" backgroundalpha="1" background="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" target="" id="Point01" description="" tilt="-7.94" title="" pan="-260.64" skinid="ht_node"/>
+      <hotspot url="{node4}" target="" id="Point02" description="" tilt="-5.15" title="" pan="-305.68" skinid="ht_node"/>
+      <hotspot url="{node1}" target="" id="Point03" description="" tilt="-5.64" title="" pan="-229.95" skinid="ht_node"/>
+      <hotspot url="{node5}" target="" id="Point04" description="" tilt="-6.27" title="" pan="-194.24" skinid="ht_node"/>
+      <hotspot url="{node6}" target="" id="Point05" description="" tilt="-6.45" title="" pan="-7.44" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" field="90.000" id="_background" mode="0" loop="1" startmutedmobile="0" tilt="-1.000" pansize="10.000" pan="-1.000" ambientlevel="0.000" level="1.000">
+        <source url="media/detskie-dva-veselykh-gusja.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" invertcontrol="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" width="2000" height="2000" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-2.92" pan="133.65" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" heading="0" source="" nodeid="node1" description="" author="" copyright="" title="" customnodeid="" datetime="10.06.2022 8:16" info="" comment="" tags="ИТОГ" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" border="1" borderalpha="1" backgroundalpha="1" background="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node3}" target="" id="Point01" description="" tilt="-10.51" title="" pan="-230.18" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" field="90.000" id="_background" mode="0" loop="1" startmutedmobile="0" tilt="-1.000" pansize="10.000" pan="-1.000" ambientlevel="0.000" level="1.000">
+        <source url="media/detskie-kogda-moi-druzja-so-mnojj.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" invertcontrol="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" width="2000" height="2000" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" heading="0" source="" nodeid="node2" description="" author="" copyright="" title="" customnodeid="" datetime="09.06.2022 7:37" info="" comment="" tags="ИТОГ" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" border="1" borderalpha="1" backgroundalpha="1" background="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node3}" target="" id="Point01" description="" tilt="-7.39" title="" pan="-5.71" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" field="90.000" id="_background" mode="0" loop="1" startmutedmobile="0" tilt="-1.000" pansize="10.000" pan="-1.000" ambientlevel="0.000" level="1.000">
+        <source url="media/detskaja-chunga-changa.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" invertcontrol="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" width="2000" height="2000" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" heading="0" source="" nodeid="node4" description="" author="" copyright="" title="" customnodeid="" datetime="08.06.2022 23:26" info="" comment="" tags="ИТОГ" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" border="1" borderalpha="1" backgroundalpha="1" background="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node3}" target="" id="Point01" description="" tilt="-7.04" title="" pan="-3.09" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" field="90.000" id="_background" mode="0" loop="1" startmutedmobile="0" tilt="-1.000" pansize="10.000" pan="-1.000" ambientlevel="0.000" level="1.000">
+        <source url="media/Рыжий, рыжий, конопатый!.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" invertcontrol="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" width="2000" height="2000" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-1.57" pan="176.21" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" heading="0" source="" nodeid="node6" description="" author="" copyright="" title="" customnodeid="" datetime="08.06.2022 18:38" info="" comment="" tags="ИТОГ" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" border="1" borderalpha="1" backgroundalpha="1" background="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node3}" target="" id="Point01" description="" tilt="-4.9" title="" pan="-197.28" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" field="90.000" id="_background" mode="0" loop="1" startmutedmobile="0" tilt="-1.000" pansize="10.000" pan="-1.000" ambientlevel="0.000" level="1.000">
+        <source url="media/deti-online.com_-_antoshka.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" invertcontrol="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata longitude="" heading="0" source="" nodeid="master" description="" author="" copyright="" title="" customnodeid="" datetime="" info="" comment="" tags="" latitude=""/>
+  </masternode>
+</tour>
