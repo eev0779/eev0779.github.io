@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.6" apprev="17950">
+  <panorama id="node1">
+    <input overlap="1" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" height="2000">
+      <level width="2000" predecode="0" preload="0" height="2000"/>
+      <level width="1000" predecode="0" preload="0" height="1000"/>
+      <level width="500" predecode="1" preload="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="59.05" pan="7.42" tilt="-2.32" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" customnodeid="" author="" nodeid="node1" info="" heading="0" longitude="" title="" datetime="04.05.2022 12:45" description="" copyright="" tags="ПаНоРаМы" latitude=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" backgroundalpha="1" border="1" borderradius="1" textalpha="1" width="180" borderalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomoutpause="1" blendtime="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" zoomin="0" enabled="1" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" hideabout="0" rubberband="0" simulatemass="1" lockedkeyboard="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" height="2000">
+      <level width="2000" predecode="0" preload="0" height="2000"/>
+      <level width="1000" predecode="0" preload="0" height="1000"/>
+      <level width="500" predecode="1" preload="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" customnodeid="" author="" nodeid="node2" info="" heading="0" longitude="" title="" datetime="27.04.2022 0:07" description="" copyright="" tags="Pano2VR6" latitude=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" backgroundalpha="1" border="1" borderradius="1" textalpha="1" width="180" borderalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" zoomoutpause="1" blendtime="1" zoomspeed="2" zoomfov="20" blendcolor="0x000000" zoomin="0" enabled="1" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" hideabout="0" rubberband="0" simulatemass="1" lockedkeyboard="0" speedwheel="1" sensitivity="8" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata source="" comment="" customnodeid="" author="" nodeid="master" info="" heading="0" longitude="" title="" datetime="" description="" copyright="" tags="" latitude=""/>
+  </masternode>
+</tour>
